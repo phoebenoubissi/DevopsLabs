@@ -1,6 +1,6 @@
 <div align="center">
   <img src="./static/logo.svg" height="249" width="255">
-  <h1>OT-Microservices</h1>
+  <h1>Microservices</h1>
 </div>
 
 A loaded microservice applications for doing different kinds of POC. This is a sample Employee System which is designed to understand the microservices nature and behaviour.
@@ -43,12 +43,6 @@ The architecture of the complete microservice interaction looks like this:-
   <img src="./static/architecture.png">
 </div>
 
-## Screenshot
-
-<div align="center">
-  <img src="./static/frontend.png">
-</div>
-
 ## Quickstart
 
 The quickstart of application can be started using `docker` and `docker-compose`. We can use simple `docker-compose` command to build the images and start the setup.
@@ -67,8 +61,4 @@ For further details checkout [GETTING_STARTED](./GETTING_STARTED.md)
 
 Please see our [CHNANGELOG.md](./CHNANGELOG.md) for details.
 
-## Contact
 
-If you have any suggestion or query. Contact us at
-
-opensource@opstree.com
